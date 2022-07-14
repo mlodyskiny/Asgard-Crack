@@ -4,7 +4,7 @@
 
 ## How to use?
 
-Download a binary from releases or compile it yourself, run Asgard Loader and the bypass, put in a random username and a random password, use auto version detection and play! Default menu key is 4
+Download a binary from releases (https://github.com/0ez/Asgard-Crack/releases/tag/kurwacojest) or compile it yourself, run Asgard Loader and the bypass, put in a random username and a random password, use auto version detection and play! Default menu key is 4
 
 ## My config:
 
