@@ -2,7 +2,9 @@
 
 ## UD (14.07.2022)
 
-## Compile, run bypass and cheat, put in random username and pass. Enjoy!
+## How to use?
+
+Download a binary from releases or compile it yourself, run Asgard Loader and the bypass, put in a random username and a random password, use auto version detection and play! Default menu key is 4
 
 ## My config:
 
