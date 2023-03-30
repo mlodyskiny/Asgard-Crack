@@ -1,1 +1,2 @@
-asgard crack - ud
+!!! OUTDATED !!!
+usage will result in global bans, still works tho
